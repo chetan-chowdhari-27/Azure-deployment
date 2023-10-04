@@ -1,0 +1,10 @@
+Flask
+Flask-Cors
+gunicorn
+Jinja2
+joblib
+numpy
+pandas
+scikit-learn
+wincertstore
+catboost
